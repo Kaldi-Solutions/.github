@@ -11,11 +11,11 @@
 - [Marcelo Alcantara Cruz Jr](https://github.com/MarceloSPTECH)
 
 ### Novos Integrantes
-- [Alexander Kimura Silva](https://github.com/felipyroma)
+- [Alexander Kimura Silva](https://github.com/AlexanderKimura)
 - [Bruno Diedrich Garcia](https://github.com/BrunoGardrich)
 - [Erik Amorim Rodrigues](https://github.com/ErikAmorim13)
 - [Guilherme Cocoloti Moraes](https://github.com/GuilhermeCocoloti)
-- [Jonatas Brito de Oliveira](https://github.com/jofsan)
+- [Jonatas Fernandes da Silva Santos](https://github.com/jofsan)
 - [Marcelo Alcantara Cruz Jr](https://github.com/MarceloSPTECH)
 <!--
 
