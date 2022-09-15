@@ -1,5 +1,4 @@
-# Grupo 3 - Kaldi Solutions
-## Hello World! 👋
+# Grupo 4 - Kaldi Solutions
 
 ### Antigos Integrantes
 - [Felipy Alves Roma](https://github.com/felipyroma)
