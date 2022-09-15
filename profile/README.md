@@ -1,7 +1,7 @@
 # Grupo 3 - Kaldi Solutions
 ## Hello World! 👋
 
-### Integrantes
+### Antigos Integrantes
 - [Felipy Alves Roma](https://github.com/felipyroma)
 - [Gabriel Fernando dos Santos Silva](https://github.com/gabrielfernando23)
 - [Júlio Kanashiro Soares da Silva](https://github.com/jknss)
@@ -10,6 +10,13 @@
 - [Lucas Barroso Jorge](https://github.com/lucasjorge02)
 - [Marcelo Alcantara Cruz Jr](https://github.com/MarceloSPTECH)
 
+### Novos Integrantes
+- [Alexander Kimura Silva](https://github.com/felipyroma)
+- [Bruno Diedrich Garcia](https://github.com/BrunoGardrich)
+- [Erik Amorim Rodrigues](https://github.com/ErikAmorim13)
+- [Guilherme Cocoloti Moraes](https://github.com/GuilhermeCocoloti)
+- [Jonatas Brito de Oliveira](https://github.com/jofsan)
+- [Marcelo Alcantara Cruz Jr](https://github.com/MarceloSPTECH)
 <!--
 
 **Here are some ideas to get you started:**
