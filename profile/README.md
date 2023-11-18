@@ -7,7 +7,7 @@
 - [Leonardo Brito de Oliveira](https://github.com/leobr1t0)
 - [Leonardo Santos Borges](https://github.com/leonardosantosborges)
 - [Lucas Barroso Jorge](https://github.com/lucasjorge02)
-- [Marcelo Alcantara Cruz Jr](https://github.com/MarceloSPTECH)
+- [Marcelo Alcantara Cruz Jr](https://github.com/MarceloACJunior)
 
 ### Novos Integrantes
 - [Alexander Kimura Silva](https://github.com/AlexanderKimura)
@@ -15,7 +15,7 @@
 - [Erik Amorim Rodrigues](https://github.com/ErikAmorim13)
 - [Guilherme Cocoloti Moraes](https://github.com/GuilhermeCocoloti)
 - [Jonatas Fernandes da Silva Santos](https://github.com/jofsan)
-- [Marcelo Alcantara Cruz Jr](https://github.com/MarceloSPTECH)
+- [Marcelo Alcantara Cruz Jr](https://github.com/MarceloACJunior)
 <!--
 
 **Here are some ideas to get you started:**
